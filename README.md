@@ -2,6 +2,16 @@
 
 ### 🖋️ 혼자 공부하는 내용을 기록하는 공간입니다. 
 
+### ✅  iOS 면접 준비
+
+[iOS 아키텍처 패턴]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%8C%A8%ED%84%B4.md
+
+
+
+- [iOS 아키텍처 패턴]
+
+
+
 #### ✅  정보처리기사 2021 1회 실기 시험 준비 : 2020 실기 기출문제
 <hr/>
 
