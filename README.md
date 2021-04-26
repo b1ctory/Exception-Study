@@ -6,11 +6,11 @@
 
 [iOS 아키텍처 패턴]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%8C%A8%ED%84%B4.md
 [App Life Cycle]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/App%20Life%20Cycle.md
-
-
+[ View Life Cycle ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/View%20Life%20Cycle.md
 
 - [iOS 아키텍처 패턴]
 - [App Life Cycle]
+- [View Life Cycle]
 
 
 
