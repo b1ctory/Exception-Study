@@ -8,12 +8,14 @@
 [App Life Cycle]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/App%20Life%20Cycle.md
 [ View Life Cycle ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/View%20Life%20Cycle.md
 [ Delegate ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Delegate.md
+[ ARC ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/ARC.md
 
 - [iOS 아키텍처 패턴]
 - [App Life Cycle]
 - [View Life Cycle]
 
 - [Delegate]
+- [ARC]
 
 
 
