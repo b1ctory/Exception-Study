@@ -9,13 +9,20 @@
 [ View Life Cycle ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/View%20Life%20Cycle.md
 [ Delegate ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Delegate.md
 [ ARC ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/ARC.md
+[ Swift에서 Class와 Struct의 차이]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Swift%EC%97%90%EC%84%9C%20Class%EC%99%80%20Struct%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md
+[ 강한 순환 참조 ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EA%B0%95%ED%95%9C%20%EC%88%9C%ED%99%98%20%EC%B0%B8%EC%A1%B0.md
+[weak vs unowned]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/weak%20vs%20unowned.md
+
+
 
 - [iOS 아키텍처 패턴]
 - [App Life Cycle]
 - [View Life Cycle]
-
 - [Delegate]
 - [ARC]
+- [Swift에서 Class와 Struct의 차이]
+- [강한 순환 참조]
+- [weak vs unowned]
 
 
 
