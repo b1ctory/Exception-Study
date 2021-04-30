@@ -14,6 +14,7 @@
 [strong vs weak vs unowned]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/weak%20vs%20unowned.md
 [ Frame vs Bounds ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Frame%20vs%20Bounds.md
 [ImageView Content Mode]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Imageview%20Content%20Mode.md
+[viewDidLoad]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/viewDidLoad%20%ED%95%A8%EC%88%98%EB%9E%80%3F.md
 
 
 
@@ -26,8 +27,8 @@
 - [강한 순환 참조]
 - [strong vs weak vs unowned]
 - [Frame vs Bounds]
-
 - [ImageView Content Mode]
+- [viewDidLoad]
 
 
 
