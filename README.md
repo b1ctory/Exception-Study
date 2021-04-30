@@ -15,6 +15,10 @@
 [ Frame vs Bounds ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Frame%20vs%20Bounds.md
 [ImageView Content Mode]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Imageview%20Content%20Mode.md
 [viewDidLoad]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/viewDidLoad%20%ED%95%A8%EC%88%98%EB%9E%80%3F.md
+[Closure (익명함수)]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Closure.md
+[Escaping Closure]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Escaping%20Closure%EC%9D%98%20%EA%B0%9C%EB%85%90.md
+
+
 
 
 
@@ -29,6 +33,10 @@
 - [Frame vs Bounds]
 - [ImageView Content Mode]
 - [viewDidLoad]
+- [Closure (익명함수)]
+- [Escaping Closure]
+
+
 
 
 
