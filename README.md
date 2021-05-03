@@ -21,7 +21,8 @@
 [ as, as?, as! ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%ED%83%80%EC%9E%85%20%EC%BA%90%EC%8A%A4%ED%8C%85%EC%9D%84%20%ED%95%A0%20%EB%95%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%B8%20as%2C%20as%3F%2C%20as!%20%EC%9D%98%20%EC%B0%A8%EC%9D%B4%20%20-%20.md
 [ActionSheet vs Alert]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%96%BC%EB%9F%BF%EA%B3%BC%20%EC%95%A1%EC%85%98%EC%8B%9C%ED%8A%B8%EB%8A%94%20%EC%96%B8%EC%A0%9C%20%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%3F.md
 
-
+[App thining]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/App%20thining.md
+[GCD]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/GCD.md
 
 
 
@@ -40,6 +41,7 @@
 - [Escaping Closure]
 - [as, as?, as!]
 - [ActionSheet vs Alert]
+- [GCD]
 
 
 
