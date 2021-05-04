@@ -1,4 +1,4 @@
-<h3> Cocoa Touch란? </h3>
+### Cocoa Touch
 
 #### **코코아 터치 계층(Cocoa Touch Layer)**
 
