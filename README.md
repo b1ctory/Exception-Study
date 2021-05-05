@@ -26,6 +26,8 @@
 
 [ Cocoa Touch ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Cocoa%20Touch.md
 [ Alamofire ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Alamofire.md
+[Singleton]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Singleton.md
+[Datasource]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Datasource.md
 
 
 
@@ -47,6 +49,8 @@
 - [GCD]
 - [Cocoa Touch]
 - [Alamofire]
+- [Singleton]
+- [Datasource]
 
 
 
