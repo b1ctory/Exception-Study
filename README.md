@@ -28,12 +28,15 @@
 [ Alamofire ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Alamofire.md
 [Singleton]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Singleton.md
 [Datasource]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Datasource.md
+[Operation Queue]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Operation%20Queue.md
+[UserDefaults]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/UserDefaults.md
 
 
 
 - [iOS 아키텍처 패턴]
 - [App Life Cycle]
 - [View Life Cycle]
+- [App thining]
 - [Delegate]
 - [ARC]
 - [Swift에서 Class와 Struct의 차이]
@@ -51,6 +54,8 @@
 - [Alamofire]
 - [Singleton]
 - [Datasource]
+- [Operation Queue]
+- [UserDefaults]
 
 
 
