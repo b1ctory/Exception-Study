@@ -31,6 +31,8 @@
 [Operation Queue]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Operation%20Queue.md
 [UserDefaults]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/UserDefaults.md
 
+[Optional]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Optional.md
+
 
 
 - [iOS 아키텍처 패턴]
@@ -56,6 +58,7 @@
 - [Datasource]
 - [Operation Queue]
 - [UserDefaults]
+- [Optional]
 
 
 
