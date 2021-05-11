@@ -37,6 +37,8 @@
 
 [Autolayout]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Autolayout.md
 
+[iOS 메모리구조]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md
+
 
 
 - [iOS 아키텍처 패턴]
@@ -64,8 +66,8 @@
 - [UserDefaults]
 - [Optional]
 - [Protocol]
-
 - [Autolayout]
+- [iOS 메모리구조]
 
 
 
