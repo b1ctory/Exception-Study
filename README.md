@@ -38,6 +38,9 @@
 [Autolayout]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Autolayout.md
 
 [iOS 메모리구조]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md
+[Swift 집단 자료형]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Swift%20%EC%A7%91%EB%8B%A8%20%EC%9E%90%EB%A3%8C%ED%98%95.md
+
+
 
 
 
@@ -68,6 +71,7 @@
 - [Protocol]
 - [Autolayout]
 - [iOS 메모리구조]
+- [Swift 집단 자료형]
 
 
 
