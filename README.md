@@ -40,6 +40,9 @@
 [iOS 메모리구조]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md
 [Swift 집단 자료형]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Swift%20%EC%A7%91%EB%8B%A8%20%EC%9E%90%EB%A3%8C%ED%98%95.md
 
+[열거형과 익스텐션]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%97%B4%EA%B1%B0%ED%98%95%EA%B3%BC%20%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98.md
+[뷰의 재사용]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EB%B7%B0%EC%9D%98%20%EC%9E%AC%EC%82%AC%EC%9A%A9.md
+
 
 
 
@@ -72,6 +75,8 @@
 - [Autolayout]
 - [iOS 메모리구조]
 - [Swift 집단 자료형]
+- [열거형과 익스텐션]
+- [뷰의 재사용]
 
 
 
