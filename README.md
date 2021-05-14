@@ -42,6 +42,7 @@
 
 [열거형과 익스텐션]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%97%B4%EA%B1%B0%ED%98%95%EA%B3%BC%20%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98.md
 [뷰의 재사용]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EB%B7%B0%EC%9D%98%20%EC%9E%AC%EC%82%AC%EC%9A%A9.md
+[뷰 계층]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/View%20Hirerachy.md
 
 
 
@@ -77,6 +78,7 @@
 - [Swift 집단 자료형]
 - [열거형과 익스텐션]
 - [뷰의 재사용]
+- [뷰 계층]
 
 
 
