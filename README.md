@@ -43,8 +43,8 @@
 [열거형과 익스텐션]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%97%B4%EA%B1%B0%ED%98%95%EA%B3%BC%20%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98.md
 [뷰의 재사용]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EB%B7%B0%EC%9D%98%20%EC%9E%AC%EC%82%AC%EC%9A%A9.md
 [뷰 계층]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/View%20Hirerachy.md
-
-
+[에셋 카탈로그]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%97%90%EC%85%8B%20%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8.md
+[prepare]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/prepare.md
 
 
 
@@ -79,6 +79,8 @@
 - [열거형과 익스텐션]
 - [뷰의 재사용]
 - [뷰 계층]
+- [에셋 카탈로그]
+- [prepare]
 
 
 
