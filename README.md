@@ -48,6 +48,12 @@
 
 [Any, AnyObject, nil]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Any%2C%20AnyObject%2C%20nil.md
 [swift 함수 고급]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Swift%20%ED%95%A8%EC%88%98%20%EA%B3%A0%EA%B8%89.md
+[옵셔널 추출]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%98%B5%EC%85%94%EB%84%90%20%EC%B6%94%EC%B6%9C.md
+[guard let vs if let]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/guard%20let%20vs%20if%20let.md
+
+
+
+
 
 
 
@@ -84,9 +90,10 @@
 - [뷰 계층]
 - [에셋 카탈로그]
 - [prepare]
-
 - [Any, AnyObject, nil]
 - [swift 함수 고급]
+- [옵셔널 추출]
+- [guard let vs if let]
 
 
 
