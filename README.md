@@ -55,6 +55,8 @@
 [UIStackview]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/UIStakckView.md
 [오류처리]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%98%A4%EB%A5%98%20%EC%B2%98%EB%A6%AC.md
 [ 구조체 ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md
+[클래스]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%ED%81%B4%EB%9E%98%EC%8A%A4.md
+[타입 메소드 vs 인스턴스 메소드]:  https://github.com/b1ctory/Exception-Study/blob/master/iOS/%ED%83%80%EC%9E%85%20%EB%A9%94%EC%86%8C%EB%93%9C%20vs%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EB%A9%94%EC%86%8C%EB%93%9C.md
 
 
 
@@ -100,6 +102,9 @@
 - [UIStackview]
 - [오류처리]
 - [구조체]
+- [클래스]
+
+- [타입 메소드 vs 인스턴스 메소드]
 
 
 
