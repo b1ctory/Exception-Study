@@ -53,6 +53,8 @@
 
 [동시성 프로그래밍과 비동기 프로그래밍]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EB%8F%99%EC%8B%9C%EC%84%B1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md
 [UIStackview]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/UIStakckView.md
+[오류처리]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%98%A4%EB%A5%98%20%EC%B2%98%EB%A6%AC.md
+[ 구조체 ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md
 
 
 
@@ -96,6 +98,8 @@
 - [동시성 프로그래밍과 비동기 프로그래밍]
 
 - [UIStackview]
+- [오류처리]
+- [구조체]
 
 
 
