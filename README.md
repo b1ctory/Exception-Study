@@ -59,6 +59,10 @@
 [타입 메소드 vs 인스턴스 메소드]:  https://github.com/b1ctory/Exception-Study/blob/master/iOS/%ED%83%80%EC%9E%85%20%EB%A9%94%EC%86%8C%EB%93%9C%20vs%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EB%A9%94%EC%86%8C%EB%93%9C.md
 [H.I.G]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/H.I.G.md
 
+[실제 디바이스가 없을 경우 개발 환경에서 할 수 없는것과 할 수 있는 것]:https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%8B%A4%EC%A0%9C%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EA%B0%80%20%EC%97%86%EC%9D%84%20%EA%B2%BD%EC%9A%B0%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%EA%B2%83%EA%B3%BC%20%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B2%83%20%20.md
+
+
+
 
 
 - [iOS 아키텍처 패턴]
@@ -99,14 +103,13 @@
 - [옵셔널 추출]
 - [guard let vs if let]
 - [동시성 프로그래밍과 비동기 프로그래밍]
-
 - [UIStackview]
 - [오류처리]
 - [구조체]
 - [클래스]
-
 - [타입 메소드 vs 인스턴스 메소드]
 - [H.I.G]
+- [실제 디바이스가 없을 경우 개발 환경에서 할 수 없는것과 할 수 있는 것]
 
 
 
