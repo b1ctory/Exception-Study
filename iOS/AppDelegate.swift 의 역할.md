@@ -39,4 +39,25 @@ func applicationWillTerminate(_ application: UIApplication)
 
 
 
+#### iOS 13부터 AppDelegate가 하는 일?
+
+이전엔 앱이 foreground에 들어가거나 background로 이동할 때 앱의 상태를 업데이트하는 등의 **앱의 주요 생명주기 이벤를 관리**했었지만 이제는 더이상 하지 않는다.
+
+1. 앱의 가장 중요한 데이터 구조를 초기화
+2. 앱의 Scene을 환경설정 하는 것
+3. 앱 밖에서 발생한 알림 (배터리 부족, 다운로드 완료 등)에 대응하는 것
+4. 특정한 scenes, views, view controllers에 한정되지 않고 앱 자체를 타겟하는 이벤트에 대응하는 것
+5. 애플 푸쉬 알림 서비스와 같이 실행시 요구되는 모든 서비스를 등록하는 것
+
+#### Deployment Target이 iOS 13 미만인 상황에서는?
+
+iOS 12 이하는 하나의 앱에 하나의 window를 가지고 있기 때문에 (즉, 멀티 window를 사용하지 않기 때문에) iOS 13에서 추가된 부분을 삭제하고 이전 버전과 설정을 똑같이 바꿔주면 이전 방식과 동일하게 사용할 수 있다.
+
+1. SceneDelegate.swift 파일 삭제
+2. iOS 13에서 AppDelegate에 추가된 UISceneSession과 관련된 두 메소드 삭제
+3. iOS 13에서 Scene Delegate로 옮겨진 window 프로퍼티를 AppDelegate로 다시 옮기기
+4. Info.plist 에서 Scene과 관련된 Manifest인 Application Scene Manifest 삭제
+
+
+
 reference : https://velog.io/@delmasong/App-Delegate
