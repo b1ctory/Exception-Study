@@ -61,6 +61,8 @@
 
 [실제 디바이스가 없을 경우 개발 환경에서 할 수 없는것과 할 수 있는 것]:https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%8B%A4%EC%A0%9C%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EA%B0%80%20%EC%97%86%EC%9D%84%20%EA%B2%BD%EC%9A%B0%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%EA%B2%83%EA%B3%BC%20%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B2%83%20%20.md
 [앱이 foreground에 있을 때와 background에 있을 때의 제약사항]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%95%B1%EC%9D%B4%20foreground%EC%97%90%20%EC%9E%88%EC%9D%84%20%EB%95%8C%EC%99%80%20background%EC%97%90%20%EC%9E%88%EC%9D%84%20%EB%95%8C%EC%9D%98%20%EC%A0%9C%EC%95%BD%EC%82%AC%ED%95%AD.md
+[AppDelegate의 역할]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/AppDelegate.swift%20%EC%9D%98%20%EC%97%AD%ED%95%A0.md
+[SceneDelegate]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/SceneDelegae%EB%9E%80%3F.md
 
 
 
@@ -112,6 +114,8 @@
 - [H.I.G]
 - [실제 디바이스가 없을 경우 개발 환경에서 할 수 없는것과 할 수 있는 것]
 - [앱이 foreground에 있을 때와 background에 있을 때의 제약사항]
+- [AppDelegate의 역할]
+- [SceneDelegate]
 
 
 
