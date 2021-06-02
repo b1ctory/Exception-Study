@@ -64,6 +64,9 @@
 [AppDelegate의 역할]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/AppDelegate.swift%20%EC%9D%98%20%EC%97%AD%ED%95%A0.md
 [SceneDelegate]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/SceneDelegae%EB%9E%80%3F.md
 
+[NSOperationQueue 와 GCD Queue]:https://github.com/b1ctory/Exception-Study/blob/master/iOS/NSOperationQueue%20%EC%99%80%20GCD%20Queue.md
+[In-Active]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EC%95%B1%EC%9D%B4%20In-Active%20%EC%83%81%ED%83%9C%EA%B0%80%20%EB%90%98%EB%8A%94%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md
+
 
 
 
@@ -116,6 +119,8 @@
 - [앱이 foreground에 있을 때와 background에 있을 때의 제약사항]
 - [AppDelegate의 역할]
 - [SceneDelegate]
+- [NSOperationQueue 와 GCD Queue]
+- [In-Active]
 
 
 
