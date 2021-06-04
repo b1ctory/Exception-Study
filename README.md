@@ -70,6 +70,13 @@
 [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/iOS%20%EC%95%B1%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B3%A0%2C%20User%20Interface%EB%A5%BC%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EB%8D%B0%20%ED%95%84%EC%88%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md
 [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Foundation%20Kit%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%ED%8F%AC%ED%95%A8%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8A%94%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%A4%EC%9D%80%20%EC%96%B4%EB%96%A4%20%EA%B2%83%EC%9D%B4%20%EC%9E%88%EB%8A%94%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
 
+[NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/NotificationCenter%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20%ED%99%9C%EC%9A%A9%20%EB%B0%A9%EC%95%88%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
+[UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/UIKit%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%A4%EC%9D%84%20%EB%8B%A4%EB%A3%B0%20%EB%95%8C%20%EA%BC%AD%20%EC%B2%98%EB%A6%AC%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%93%B0%EB%A0%88%EB%93%9C%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md
+
+
+
+
+
 
 
 - [iOS 아키텍처 패턴]
@@ -125,6 +132,8 @@
 - [CustomView]
 - [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?]
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.]
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.]
+- [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?]
 
 
 
