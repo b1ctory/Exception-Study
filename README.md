@@ -76,9 +76,10 @@
 [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/TableView%EB%A5%BC%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20Cell%EC%9D%84%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%B5%9C%EC%86%8C%ED%95%9C%20%EA%B5%AC%ED%98%84%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20DataSource%20%EB%A9%94%EC%84%9C%EB%93%9C.md
 [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.]:https://github.com/b1ctory/Exception-Study/blob/master/iOS/%ED%95%98%EB%82%98%EC%9D%98%20View%20Controller%20%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EC%97%AC%EB%9F%AC%20TableView%20Controller%20%EC%97%AD%ED%95%A0%EC%9D%84%20%ED%95%B4%EC%95%BC%20%ED%95%A0%20%EA%B2%BD%EC%9A%B0%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B5%AC%EB%B6%84%3F.md
 
+[Optional이란 무엇인지 설명하시오]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Optional%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
+[Struct 가 무엇이고 어떻게 사용하는지 설명하시오]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Struct%20%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.%20.md
 
-
-
+ 
 
 - [iOS 아키텍처 패턴]
 - [App Life Cycle]
@@ -137,6 +138,10 @@
 - [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?]
 - [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.]
 - [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.]
+- [Optional이란 무엇인지 설명하시오]
+- [Struct 가 무엇이고 어떻게 사용하는지 설명하시오]
+
+
 
 
 
