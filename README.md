@@ -80,6 +80,12 @@
 [Struct 가 무엇이고 어떻게 사용하는지 설명하시오]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Struct%20%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.%20.md
 [instance 메서드와 class 메서드의 차이점을 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/instance%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80%20class%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
 [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Delegate%20%ED%8C%A8%ED%84%B4%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EB%A5%BC%20%EC%98%88%EB%A5%BC%20%EB%93%A4%EC%96%B4%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
+[Single 패턴을 활용하는 경우를 예를 들어 설명하시오]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Single%20%ED%8C%A8%ED%84%B4%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EB%A5%BC%20%EC%98%88%EB%A5%BC%20%EB%93%A4%EC%96%B4%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.md
+[add Delegates와 Notification 방식의 차이점에 대해 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/Delegates%EC%99%80%20Notification%20%EB%B0%A9%EC%8B%9D%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.%20.md
+
+
+
+
 
  
 
@@ -144,8 +150,9 @@
 - [Struct 가 무엇이고 어떻게 사용하는지 설명하시오]
 - [instance 메서드와 class 메서드의 차이점을 설명하시오.]
 - [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.]
+- [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오]
 
-
+- [add Delegates와 Notification 방식의 차이점에 대해 설명하시오.]
 
 
 
