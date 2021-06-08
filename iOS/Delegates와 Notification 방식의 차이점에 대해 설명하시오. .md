@@ -6,3 +6,7 @@ Notification은 특정 이벤트가 발생했을 때 사전에 등록된 Notific
 
 둘의 차이는 **Delegate Pattern은 알림을 발생시키는 주체와 그에 대응하는 위임자가 1:1로 소통한다는 것이고**, **Notification은 1:N로 하나의 알림을 여러 주체가 받을 수 있습니다. 그렇기 때문에 Notification을 사용할 때 의도하지 않은 곳에서 알림을 수신하고 있는 지 주의해야**합니다. 
 
+
+
+reference : https://caution-dev.github.io/swift/2019/03/16/iOS-Q&A.html
+
