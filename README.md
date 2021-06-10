@@ -85,6 +85,7 @@
 
 [멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/%EB%A9%80%ED%8B%B0%20%EC%93%B0%EB%A0%88%EB%93%9C%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%95%B1%EC%9D%84%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C%20%EA%B3%A0%EB%A0%A4%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EB%B0%A9%EC%8B%9D%EB%93%A4%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
 [MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오. ]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/MVC%20%EA%B5%AC%EC%A1%B0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EB%B8%94%EB%A1%9D%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%2C%20%EA%B0%81%20%EC%97%AD%ED%95%A0%EA%B3%BC%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.%20.md
+[mutating 키워드에 대해 설명하시오]: https://github.com/b1ctory/Exception-Study/blob/master/iOS/mutating%20%ED%82%A4%EC%9B%8C%EB%93%9C%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4..md
 
  
 
@@ -155,7 +156,7 @@
 
 - [MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.]
 
-
+- mutating 키워드에 대해 설명하시오
 
 
 
